@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x53697b152706fac8A60DEC345658EEDd545A2d38",
+  "SCAN_LINK": "https://polygonscan.com/address/0x53697b152706fac8A60DEC345658EEDd545A2d38",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Eternal Tree",
+  "SYMBOL": "NETC",
+  "MAX_SUPPLY": 8500,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nuke-alpha-omega",
+  "SHOW_BACKGROUND": true
+}
